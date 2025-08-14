@@ -1,4 +1,6 @@
-# Web Demo — Todo
+# Leetcode Practice Record
 
-A minimal HTML/JS todo list demo.
-Open `index.html` in your browser
+Just for practicing leetcode's problems & github cli.
+
+---
+Last updated: 2025-08-14T07:28:13.546085Z
